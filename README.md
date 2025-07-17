@@ -1,1 +1,2 @@
-# Kultra-Mega-Stores-KMS-
+## CAPSTONE SQL PROJECT
+
