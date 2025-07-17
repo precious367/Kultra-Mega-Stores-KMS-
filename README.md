@@ -49,17 +49,16 @@ Recommendation: Set clear rules to ensure that critical orders are shipped via E
 
 ### Business Impact
 If these suggestions are followed:
-- Customers will likely be happier and more loyal.
+- Customers will likely be happier.
 - We can cut down on costs by using the right shipping method for each type of order.
 - There’s a chance to boost revenue by focusing on customers and regions that aren’t performing well.
 - Marketing and sales can be more focused and get better results by using what the data shows.
 
-📌 Conclusion
+ Conclusion
 This project shows that technology products sell really well, especially in places like Ontario. It also shows that most sales are coming from just a few regions and categories. That means we can focus our time, money, and energy on what’s already working.
 Another thing we noticed is that delivery trucks are used a lot—even for urgent orders. That might slow things down and affect how customers feel.
 Overall, these insights can help KMS make better choices—whether it’s keeping loyal customers happy or finding smarter ways to reach the ones we’re not connecting with yet.
 
-### Data Analysis ( Files Included)
 
 ### Author
 PRECIOUS OJUGBELI
